@@ -1,0 +1,35 @@
+body{background-color: #8febbe;}
+h1{color:#004b9c;
+font-family: Arial;
+font-size: 55px;
+text-align: center;
+background-color: #b6f2d5;
+margin: 25px;
+padding: 15px;}
+
+p{ color: #0462c7;
+font-family: Arial;
+font-size: 25px;
+margin: 1px;}
+
+a{ text-decoration: none;
+color: #0462c7;
+font-family: Courier;
+font-size: 35px;
+margin: 1px;}
+a:hover{ text-decoration: underline;
+color: #5c97f7;
+font-size: 36px;
+font-family: Courier-Oblique;}
+
+ul li {list-style: none;
+background-color: #b6f2d5;
+display: inline-block;
+border-style: solid;
+border-color: #80d9ae}
+
+ul li:hover{border-style: dotted;}
+
+img{border-style: solid;
+border-width: 10px;
+color: #b6f2d5;}
